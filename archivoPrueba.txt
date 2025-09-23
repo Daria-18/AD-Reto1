@@ -1,0 +1,9 @@
+#Comentarios
+#Tue Sep 23 17:47:10 CEST 2025
+id1=Ash Ketchum
+id2=Pedrito
+id3=Carlitos
+id4=Ariana Grande
+id5=LeBron James
+id6=Spike Spiegel
+id7=Gerard Way
