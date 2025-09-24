@@ -1,2 +1,2 @@
 # AD-Reto1
-Repositorio compartido para la entrega del Aula Virtual
+Repositorio compartido de Daria y Diego para la entrega del Aula Virtual.
